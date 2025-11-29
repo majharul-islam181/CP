@@ -1,0 +1,11 @@
+# Executable files
+*.out
+*.exe
+*.o
+
+# Ignore files without extensions (compiled executables)
+array/largest_element
+array/second_largest_element
+
+# VSCode settings (optional)
+# .vscode/
