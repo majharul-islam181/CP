@@ -1,11 +1,10 @@
-# Executable files
-*.out
-*.exe
-*.o
+# Ignore all compiled files (without extension)
+array/*
 
-# Ignore files without extensions (compiled executables)
-array/largest_element
-array/second_largest_element
+# Keep C++ source and header files
+!array/*.cpp
+!array/*.h
 
-# VSCode settings (optional)
-# .vscode/
+# Ignore VS Code config (optional)
+#.vscode/
+
