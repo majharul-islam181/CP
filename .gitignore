@@ -8,3 +8,5 @@ array/*
 # Ignore VS Code config (optional)
 #.vscode/
 
+.DS_Store
+
