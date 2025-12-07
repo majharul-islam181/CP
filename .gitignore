@@ -5,6 +5,14 @@ array/*
 !array/*.cpp
 !array/*.h
 
+
+# Ignore all compiled files (without extension)
+number/*
+
+# Keep C++ source and header files
+!number/*.cpp
+!number/*.h
+
 # Ignore VS Code config (optional)
 #.vscode/
 
